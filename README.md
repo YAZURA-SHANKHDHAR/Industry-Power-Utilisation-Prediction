@@ -16,5 +16,5 @@ The model has been evaluated on a test dataset using **Root Mean Squared Error (
 ## Contact
 For questions or inquiries, please contact:
 
-Yazura Shankhdhar | [LinkedIn](www.linkedin.com/in/yazura-shankhdhar-72825a82)
+Yazura Shankhdhar | [LinkedIn](https://www.linkedin.com/in/yazura-shankhdhar-72825a82)
 
